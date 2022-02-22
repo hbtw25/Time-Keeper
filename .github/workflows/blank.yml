@@ -28,7 +28,7 @@ jobs:
       - name: Commit
         run: |
           git add *
-          git config --global user.name 'Ticlext-Altihaf'
+          git config --global user.name 'hbtw25'
           git config --global user.email 'cli@github.com'
           git commit -am "Time Keeper"
           git push
